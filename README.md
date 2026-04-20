@@ -38,28 +38,6 @@ Hadoop, HDFS, MapReduce, Apache Spark
 
 ---
 
-## Projects
-
-### AI Fullstack App
-Spring AI + React application with chat, image generation, and dynamic UI.
-
-### Product Catalog
-Full-stack application using React and Spring Boot with filtering, search, and sorting.
-
-### Distributed SQL Query Engine
-Built using Hadoop MapReduce for processing large-scale datasets with query optimization.
-
-### Skin Disease Detection
-Deep learning-based classification system using DenseNet and Flask API.
-
----
-
-## Currently
-
-Exploring AI-powered applications and improving system design skills.
-
----
-
 ## Contact
 
 Email: shahzebb53@gmail.com  
