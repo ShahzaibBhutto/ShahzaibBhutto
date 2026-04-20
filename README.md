@@ -8,33 +8,29 @@ I’ve worked on systems used in real environments handling reservations, paymen
 
 ## What I Do
 
-- Design scalable backend systems  
-- Build clean and reliable REST APIs  
-- Optimize performance and database queries  
-- Handle concurrency and data consistency  
-- Develop full-stack features (React + Spring Boot)  
+- Build scalable backend systems for real-world applications  
+- Design and develop REST APIs with clean architecture  
+- Optimize performance (queries, caching, system flow)  
+- Handle concurrency and data consistency in high-traffic scenarios  
+- Develop full-stack features using React and Spring Boot  
 
 ---
 
 ## Tech Stack
 
-**Languages:**  
-Java, Python, JavaScript (ES6+), C++  
+**Languages:** Java, Python, JavaScript (ES6+), C++  
+**Backend:** Spring Boot, Spring MVC, Hibernate, Flask, FastAPI  
+**Frontend:** React, TypeScript  
+**Databases:** MySQL, Oracle  
 
-**Backend:**  
-Spring Boot, Spring MVC, Hibernate, Flask, FastAPI  
+---
 
-**Frontend:**  
-React, TypeScript  
+## Experience Snapshot
 
-**Databases:**  
-MySQL, Oracle  
-
-**Tools & Others:**  
-Git, Docker, AWS, Postman, Jira  
-
-**Data & Systems:**  
-Hadoop, HDFS, MapReduce, Apache Spark  
+- Built and scaled systems supporting 600+ clubs and 10,000+ users  
+- Improved backend performance by up to 30–40% through optimization  
+- Designed concurrency-safe reservation systems handling high traffic  
+- Led development of production features with faster delivery cycles 
 
 ---
 
